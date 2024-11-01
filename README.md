@@ -6,3 +6,6 @@
 - watermelon3.0.csv : 西瓜数据集 3.0alpha  
 - logger.py : 日志类，便于svm.py中输出到控制台的内容同时输出到日志中  
 - log : 包含日志log.txt，记录程序运行过程中的输出  
+
+## Reference
+https://github.com/hierarchyJK/compare-LIBSVM-with-Linear-and-Gassian-Kerne
